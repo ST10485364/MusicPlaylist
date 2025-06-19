@@ -26,3 +26,6 @@ Runs tests,
 
 # Documentation
 ![Screenshot 2025-06-19 134412](https://github.com/user-attachments/assets/fe7200f0-a9eb-4382-80a5-e0e6413b1cb1)
+![Screenshot 2025-06-19 134618](https://github.com/user-attachments/assets/ec91cc6b-c1e7-4d57-8fde-68cbaca2db14)
+![Screenshot 2025-06-19 134749](https://github.com/user-attachments/assets/c50f9b8d-1485-4526-ade4-ea1d47f6e908)
+# Screenshots
