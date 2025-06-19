@@ -21,3 +21,11 @@ Checks out the code,
 Sets up a Java 17 environment,
 Builds the project using Gradle,
 Runs tests,
+
+# Documentation of code
+![Screenshot 2025-06-19 134412](https://github.com/user-attachments/assets/fe7200f0-a9eb-4382-80a5-e0e6413b1cb1)
+![Screenshot 2025-06-19 134618](https://github.com/user-attachments/assets/ec91cc6b-c1e7-4d57-8fde-68cbaca2db14)
+![Screenshot 2025-06-19 134749](https://github.com/user-attachments/assets/c50f9b8d-1485-4526-ade4-ea1d47f6e908)
+# Screenshots of it running
+![Screenshot 2025-06-19 135642](https://github.com/user-attachments/assets/5e38fbc4-4f9d-438f-a304-4cf3dcd97467)
+the user has to input their song, artist, rating and the comments
