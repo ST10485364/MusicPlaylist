@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#8BC34A"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/AddBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F44336"
+        android:backgroundTint="#F44336"
+        android:text="Add to Playlist"
+        tools:layout_editor_absoluteX="90dp"
+        tools:layout_editor_absoluteY="80dp" />
+
+    <Button
+        android:id="@+id/NextBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        tools:layout_editor_absoluteX="157dp"
+        tools:layout_editor_absoluteY="158dp" />
+
+
+    <EditText
+        android:id="@+id/SongTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Song"
+        tools:layout_editor_absoluteX="67dp"
+        tools:layout_editor_absoluteY="471dp" />
+
+    <EditText
+        android:id="@+id/ArtistName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Artist"
+        tools:layout_editor_absoluteX="51dp"
+        tools:layout_editor_absoluteY="494dp" />
+
+    <EditText
+        android:id="@+id/Ratings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rating"
+        tools:layout_editor_absoluteX="51dp"
+        tools:layout_editor_absoluteY="522dp" />
+
+    <EditText
+        android:id="@+id/Coments"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Coment"
+        tools:layout_editor_absoluteX="47dp"
+        tools:layout_editor_absoluteY="551dp" />
+
+    <Button
+        android:id="@+id/ExitBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Exit"
+        tools:layout_editor_absoluteX="155dp"
+        tools:layout_editor_absoluteY="227dp" />
+
+</LinearLayout>

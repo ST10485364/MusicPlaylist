@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DetailedViewScreen">
+
+    <Button
+        android:id="@+id/ShowBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="45dp" />
+
+    <Button
+        android:id="@+id/AverageBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Average"
+        tools:layout_editor_absoluteX="199dp"
+        tools:layout_editor_absoluteY="183dp" />
+
+
+    <Button
+        android:id="@+id/ReturnBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Return"
+        tools:layout_editor_absoluteX="111dp"
+        tools:layout_editor_absoluteY="286dp" />
+
+    <TextView
+        android:id="@+id/Result"
+        android:layout_width="142dp"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="173dp"
+        tools:layout_editor_absoluteY="383dp" />
+
+</LinearLayout>
