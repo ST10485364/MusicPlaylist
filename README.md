@@ -15,4 +15,9 @@ At the end there will be an exit buttton that will aloow you to exit the app to 
 # Utilisation of GitHub and GitHub actions
 GitHub is a cloud-based platform for version control and collaboration using Git. It is widely used by developers and teams to host, review, manage, and deploy code.
 GitHub Actions is a CI/CD (Continuous Integration / Continuous Deployment) tool built into GitHub. It allows you to automate workflows triggered by events like pushing code, opening pull requests, or on a schedule.
-foe example it:
+for example it:
+
+Checks out the code,
+Sets up a Java 17 environment,
+Builds the project using Gradle,
+Runs tests,
