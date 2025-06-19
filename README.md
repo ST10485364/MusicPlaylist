@@ -25,3 +25,4 @@ Builds the project using Gradle,
 Runs tests,
 
 # Documentation
+![Screenshot 2025-06-19 134412](https://github.com/user-attachments/assets/fe7200f0-a9eb-4382-80a5-e0e6413b1cb1)
