@@ -3,14 +3,11 @@
 # overview
 
 link to the GitHub Repository
-
-
-Youtube link for video representation of the app
-https://youtu.be/AauUoHTUV0c
+https://github.com/ST10485364/MusicPlaylist.git
 
 # Purpose
-The purpose of this app is to make studying easier for learners using Flashcards that asks them questions about history
-# Design considerations
+The purpose of this app is to allow users to create and manage playlists
+
 1.launch the app and as soon as you do there will be a welcome message, a decription of the app and a START button to begin the quiz.
 2.The user will click on the start button which will then take them to the next page where the first question will be displayed.
 3.The user will have to click whether the following statements are true or false.
